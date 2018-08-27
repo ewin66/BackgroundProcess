@@ -1,0 +1,7 @@
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\bin\Debug\BackGroundServiceDemo.exe.config
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\obj\Debug\BackGroundServiceDemo.csprojResolveAssemblyReference.cache
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\bin\Debug\BackGroundServiceDemo.exe
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\bin\Debug\BackGroundServiceDemo.pdb
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\bin\Debug\Oracle.DataAccess.dll
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\obj\Debug\BackGroundServiceDemo.exe
+E:\Code_Test\BackGroundServiceDemo\BackGroundServiceDemo\obj\Debug\BackGroundServiceDemo.pdb
